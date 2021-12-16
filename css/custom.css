@@ -48,13 +48,6 @@ html.fancybox-lock, body.fancybox-lock{
 
 /* fancybox-custom */
 
-/* .fancybox-overlay{z-index: 9999;}
-.fancybox-wrap{width: 60% !important;}
-.fancybox-skin{height: 100% !important;}
-.fancybox-outer{ overflow-y: scroll;}
-.fancybox-inner{width: 100% !important;}
-.fancybox-wrap img{width: 100%; max-height: none; height: auto;} */
-
 .fancybox-overlay{z-index: 9999;}
 .fancybox-wrap{width: 60% !important;}
 .fancybox-outer{ overflow-y: scroll;}
