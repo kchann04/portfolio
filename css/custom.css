@@ -22,10 +22,10 @@ html.fancybox-lock, body.fancybox-lock{
 }
 .rotate-box-info p{
   margin-bottom: 10px;
-  font-size: 20px;
 }
 .rotate-box-info h4{
   margin-bottom: 20px;
+  color: rgb(75, 74, 74);
 }
 .rotate-box-2 h4{
   color: #fff;

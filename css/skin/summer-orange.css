@@ -11,7 +11,11 @@ a, a:hover, a:focus {
 	color: #9f3a00;
 }
 .navbar-default, .navbar-default.navbar-fixed-top.navbar-shrink {
-  background-color: #363940;
+	background-color: rgba(54, 57, 64, 1);
+	transition: all 0.3s;
+}
+.navbar-default, .navbar-default.navbar-fixed-top.navbar-shrink.on{
+	background-color: rgba(54, 57, 64, 0);
 }
 .navbar-default .navbar-nav > li > a {
 	color: #fff;
