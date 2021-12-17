@@ -769,6 +769,7 @@ ul.contact-address li {
 	padding: 0 0 20px;
 	margin: 0 30px;
   display: inline-block;
+	font-size: 18px;
 }
 ul.contact-address li:last-child {
 	padding-bottom: 0;
