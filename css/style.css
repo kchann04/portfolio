@@ -952,8 +952,8 @@ p.subtitle {
 .scrolltotop {
 	position: fixed;
 	display: none;
-	bottom: 20px;
-	right: 30px;
+	bottom: 40px;
+	right: 40px;
 	width: 34px;
 	height: 34px;
 	line-height: 34px;
